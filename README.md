@@ -10,5 +10,5 @@
 # 課程筆記區
 
 # 作業連結區
-[練習1](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/F2.ipynb)
+[測試1](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/F2.ipynb)
 # 專題連結區
