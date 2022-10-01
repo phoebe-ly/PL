@@ -14,9 +14,9 @@
   
 # 作業連結區
 
-[作業1(嘗試1)](http://localhost:8889/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%AC%AC%E4%B8%80%E4%BD%9C%E6%A5%AD%20%E5%98%97%E8%A9%A61.ipynb)
+[作業1(嘗試1)](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E4%BD%9C%E6%A5%AD/%E7%AC%AC%E4%B8%80%E4%BD%9C%E6%A5%AD%20%E5%98%97%E8%A9%A61.ipynb)
 
-[作業1(最終嘗試)](http://localhost:8889/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%AC%AC%E4%B8%80%E4%BD%9C%E6%A5%AD%20%E6%9C%80%E7%B5%82%E5%98%97%E8%A9%A6.ipynb)
+[作業1(最終嘗試)](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E4%BD%9C%E6%A5%AD/%E7%AC%AC%E4%B8%80%E4%BD%9C%E6%A5%AD%20%E6%9C%80%E7%B5%82%E5%98%97%E8%A9%A6.ipynb)
 
 <HR>
   
@@ -24,19 +24,19 @@
 
 >W1
 
-[測試1](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E6%B8%AC%E8%A9%A61.ipynb)
+[測試1](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E6%B8%AC%E8%A9%A61.ipynb)
 
-[練習1/3](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%921.3.ipynb)
+[練習1/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%921.3.ipynb)
 
-[練習2/3](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%922.3.ipynb)
+[練習2/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%922.3.ipynb)
 
-[練習3/3](http://localhost:8888/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%923.3.ipynb)
+[練習3/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%923.3.ipynb)
 
 >W2
 
 >W3
 
-[練習](http://localhost:8889/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92.ipynb)
+[練習](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%92.ipynb)
 <HR>
   
 # 專題連結區
