@@ -24,13 +24,13 @@
 
 >W1
 
-[測試1](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E6%B8%AC%E8%A9%A61.ipynb)
+[測試1](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E6%B8%AC%E8%A9%A61.ipynb)
 
-[練習1/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%921.3.ipynb)
+[練習1/3](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%921.3.ipynb)
 
-[練習2/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%922.3.ipynb)
+[練習2/3](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%922.3.ipynb)
 
-[練習3/3](http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%923.3.ipynb)
+[練習3/3](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%923.3.ipynb)
 
 >W2
 
