@@ -36,7 +36,8 @@
 
 >W3
 
-[練習]([http://localhost:8890/notebooks/OneDrive/%E6%96%87%E4%BB%B6/GitHub/PL/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%92.ipynb](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%92.ipynb)
+[練習](https://github.com/phoebe-ly/PL/blob/main/%E7%B7%B4%E7%BF%92/%E7%B7%B4%E7%BF%92.ipynb)
+  
 <HR>
   
 # 專題連結區
