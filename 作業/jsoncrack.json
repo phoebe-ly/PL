@@ -1,0 +1,295 @@
+{
+  "雙北各區": {
+    "新北各鄉鎮市區人口密度": [
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市板橋區",
+        "people_total": "551480",
+        "area": "23.1373",
+        "population_density": "23835"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市三重區",
+        "people_total": "387484",
+        "area": "16.317",
+        "population_density": "23747"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市中和區",
+        "people_total": "413590",
+        "area": "20.144",
+        "population_density": "20532"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市永和區",
+        "people_total": "222585",
+        "area": "5.7138",
+        "population_density": "38956"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市新莊區",
+        "people_total": "416524",
+        "area": "19.7383",
+        "population_density": "21102"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市新店區",
+        "people_total": "302089",
+        "area": "120.2255",
+        "population_density": "2513"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市樹林區",
+        "people_total": "184149",
+        "area": "33.1288",
+        "population_density": "5559"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市鶯歌區",
+        "people_total": "86593",
+        "area": "21.1248",
+        "population_density": "4099"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市三峽區",
+        "people_total": "114926",
+        "area": "191.4508",
+        "population_density": "600"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市淡水區",
+        "people_total": "169597",
+        "area": "70.6565",
+        "population_density": "2400"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市汐止區",
+        "people_total": "199321",
+        "area": "71.2354",
+        "population_density": "2798"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市瑞芳區",
+        "people_total": "40353",
+        "area": "70.7336",
+        "population_density": "570"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市土城區",
+        "people_total": "238067",
+        "area": "29.5578",
+        "population_density": "8054"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市蘆洲區",
+        "people_total": "201309",
+        "area": "7.4351",
+        "population_density": "27075"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市五股區",
+        "people_total": "84919",
+        "area": "34.8632",
+        "population_density": "2436"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市泰山區",
+        "people_total": "78911",
+        "area": "19.1603",
+        "population_density": "4118"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市林口區",
+        "people_total": "106101",
+        "area": "54.1519",
+        "population_density": "1959"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市深坑區",
+        "people_total": "23660",
+        "area": "20.5787",
+        "population_density": "1150"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市石碇區",
+        "people_total": "7683",
+        "area": "144.3498",
+        "population_density": "53"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市坪林區",
+        "people_total": "6528",
+        "area": "170.835",
+        "population_density": "38"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市三芝區",
+        "people_total": "23200",
+        "area": "65.9909",
+        "population_density": "352"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市石門區",
+        "people_total": "12286",
+        "area": "51.2645",
+        "population_density": "240"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市八里區",
+        "people_total": "38493",
+        "area": "39.4933",
+        "population_density": "975"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市平溪區",
+        "people_total": "4719",
+        "area": "71.3382",
+        "population_density": "66"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市雙溪區",
+        "people_total": "8939",
+        "area": "146.2484",
+        "population_density": "61"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市貢寮區",
+        "people_total": "12552",
+        "area": "99.9734",
+        "population_density": "126"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市金山區",
+        "people_total": "22015",
+        "area": "49.2132",
+        "population_density": "447"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市萬里區",
+        "people_total": "22296",
+        "area": "63.3766",
+        "population_density": "352"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "新北市烏來區",
+        "people_total": "6320",
+        "area": "321.1306",
+        "population_density": "20"
+      }
+    ],
+    "台北各鄉鎮市區人口密度": [
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市松山區",
+        "people_total": "206988",
+        "area": "9.2878",
+        "population_density": "22286"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市信義區",
+        "people_total": "225753",
+        "area": "11.2077",
+        "population_density": "20143"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市大安區",
+        "people_total": "309969",
+        "area": "11.3614",
+        "population_density": "27283"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市中山區",
+        "people_total": "230710",
+        "area": "13.6821",
+        "population_density": "16862"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市中正區",
+        "people_total": "159608",
+        "area": "7.6071",
+        "population_density": "20981"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市大同區",
+        "people_total": "129278",
+        "area": "5.6815",
+        "population_density": "22754"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市萬華區",
+        "people_total": "191850",
+        "area": "8.8522",
+        "population_density": "21673"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市文山區",
+        "people_total": "274424",
+        "area": "31.509",
+        "population_density": "8709"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市南港區",
+        "people_total": "122155",
+        "area": "21.8424",
+        "population_density": "5593"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市內湖區",
+        "people_total": "287771",
+        "area": "31.5787",
+        "population_density": "9113"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市士林區",
+        "people_total": "288295",
+        "area": "62.3682",
+        "population_density": "4622"
+      },
+      {
+        "statistic_yyy": "106",
+        "site_id": "臺北市北投區",
+        "people_total": "256456",
+        "area": "56.8216",
+        "population_density": "4513"
+      }
+    ]
+  }
+}
