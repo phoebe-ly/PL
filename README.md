@@ -18,6 +18,7 @@
 
 [作業1(最終嘗試)](https://github.com/phoebe-ly/PL/blob/main/%E4%BD%9C%E6%A5%AD/%E7%AC%AC%E4%B8%80%E4%BD%9C%E6%A5%AD%20%E6%9C%80%E7%B5%82%E5%98%97%E8%A9%A6.ipynb)
 
+[作業2](https://github.com/phoebe-ly/PL/blob/main/%E4%BD%9C%E6%A5%AD/%E7%AC%AC%E4%BA%8C%E4%BD%9C%E6%A5%AD.ipynb)
 <HR>
   
 # 課程練習區
