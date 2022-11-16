@@ -23,6 +23,9 @@
 [作業3](https://github.com/phoebe-ly/PL/blob/main/%E4%BD%9C%E6%A5%AD/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E6%A5%AD.ipynb)
 /[csv檔](https://github.com/phoebe-ly/PL/blob/main/%E4%BD%9C%E6%A5%AD/movie.csv)
 /[json檔](https://github.com/phoebe-ly/PL/blob/main/%E4%BD%9C%E6%A5%AD/movie.json)
+  
+ 作業4：[程式碼]/[Medium](https://medium.com/@41071115h/%E9%80%8F%E9%81%8Eptt%E6%84%9F%E6%83%85%E6%9D%BF%E7%86%B1%E9%96%80%E6%96%87%E7%AB%A0%E4%BA%86%E8%A7%A3%E5%8F%B0%E7%81%A3%E7%B6%B2%E5%8F%8B%E6%84%9F%E6%83%85%E8%A7%80-8f922165c92a)
+  
 <HR>
   
 # 課程練習區
