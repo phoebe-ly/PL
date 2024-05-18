@@ -1,0 +1,58 @@
+﻿XML, HTML 格式範例
+
+<div>tw.yahoo.com</div>
+<div>www.google.com</div>
+<b>www.123.com</b>
+<b>www.facebook.com</b>
+
+
+CSV格式範例
+EV18321870,1,2016/7/6,九電暘子XX有限公司
+EV18321871,1,2017/7/6,工業富堡XX有限公司
+EV18321872,1,2018/7/6,世大界同XX有限公司
+AV18321872,1,2018/7/6,世大界同XX有限公司
+
+
+Json 格式範例
+
+{
+      "name" : "Eternal Flame",
+      "age" : 1000000,
+      "secretIdentity" : "Unknown",
+      "powers" : [
+        "Immortality",
+        "Heat Immunity",
+        "Inferno",
+        "Teleportation",
+        "Interdimensional travel"
+      ]
+}
+
+
+正規表示式範例
+
+
+gooooogle
+google
+
+abc@gmail.com
+def@gmail.com
+ghij@yahoo.com
+klmno@yahoo.com
+
+
+
+麻黃發汗，麻黃根止汗
+
+被髮緩形
+披發緩形
+
+aaaaac
+
+
+xabycccdz
+abbc, bb
+
+
+
+我們人心本善良是也
